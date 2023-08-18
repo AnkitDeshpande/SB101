@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=day13_hibernate_project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.dao{BookDDAO.java[BookDDAO" modifiers="513" timestamp="1686055195532"/>
+    <typeInfo handle="=day13_hibernate_project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.service{BookService.java[BookService" modifiers="513" timestamp="1686055149588"/>
+    <typeInfo handle="=EmployeeHibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.dao{EmployeeDao.java[EmployeeDao" modifiers="513" timestamp="1686058198592"/>
+    <typeInfo handle="=EmployeeHibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.Service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1686058195610"/>
+    <typeInfo handle="=MasaiSchoolHibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.Dao{MasaiDAO.java[MasaiDAO" modifiers="513" timestamp="1686065184068"/>
+    <typeInfo handle="=MasaiSchoolHibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.Service{MasaiService.java[MasaiService" modifiers="513" timestamp="1686065218370"/>
+    <typeInfo handle="=B27_Day_10_Assignments/src&lt;com.masai.service{MedService.java[MedService" modifiers="513" timestamp="1688562638193"/>
+    <typeInfo handle="=C3_ModelPaper/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.service{BookService.java[BookService" modifiers="513" timestamp="1688838392234"/>
+    <typeInfo handle="=C3_ModelPaper/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.dao{BookDao.java[BookDao" modifiers="513" timestamp="1688838355783"/>
+</typeInfoHistroy>

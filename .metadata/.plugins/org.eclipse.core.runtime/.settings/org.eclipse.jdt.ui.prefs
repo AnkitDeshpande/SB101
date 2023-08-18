@@ -1,0 +1,32 @@
+content_assist_add_import=true
+content_assist_autoactivation=true
+content_assist_autoactivation_delay=0
+content_assist_autoactivation_triggers_java=.
+content_assist_autoactivation_triggers_javadoc=@\#
+content_assist_autoinsert=true
+content_assist_case_sensitivity=false
+content_assist_disable_completion_trigger_chars=false
+content_assist_favorite_static_members=org.assertj.core.api.Assertions.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestBuilders.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.*;org.springframework.security.test.web.servlet.response.SecurityMockMvcResultMatchers.*;org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.*;org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.*;org.springframework.test.web.client.match.MockRestRequestMatchers.*;org.springframework.test.web.client.response.MockRestResponseCreators.*;org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;org.springframework.test.web.servlet.result.MockMvcResultHandlers.*;org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;org.hamcrest.CoreMatchers.*;org.junit.Assert.*
+content_assist_fill_method_arguments=true
+content_assist_guess_method_arguments=true
+content_assist_insert_completion=false
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.masai.assignment1.MasaiStudent"><rhs name\="com.masai.assignment1.PartTimeStudent"/><rhs name\="com.masai.assignment1.FullTimeStudent"/></lhs><lhs name\="com.masai.assignment1.PartTimeStudent"><rhs name\="com.masai.assignment1.PartTimeStudent"/></lhs><lhs name\="com.masai.assignment1.FullTimeStudent"><rhs name\="com.masai.assignment1.FullTimeStudent"/></lhs><lhs name\="com.masai.assignment2.part1.Biryani"><rhs name\="com.masai.assignment2.part1.VegBiryani"/><rhs name\="com.masai.assignment2.part1.ChickenBiryani"/></lhs><lhs name\="com.masai.assignment2.part1.VegBiryani"><rhs name\="com.masai.assignment2.part1.VegBiryani"/></lhs><lhs name\="com.masai.assignment2.part1.ChickenBiryani"><rhs name\="com.masai.assignment2.part1.ChickenBiryani"/></lhs><lhs name\="com.masai.associationMaping.OneToManyAndViceVersa.Employee"><rhs name\="com.masai.associationMaping.OneToManyAndViceVersa.Employee"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="com.masai.associationMaping.OneToManyAndViceVersa.Account"><rhs name\="com.masai.associationMaping.OneToManyAndViceVersa.Account"/></lhs><lhs name\="com.masai.associationMaping.ManyToMany.Student"><rhs name\="com.masai.associationMaping.ManyToMany.Student"/></lhs><lhs name\="com.masai.associationMaping.ManyToMany.Course"><rhs name\="com.masai.associationMaping.ManyToMany.Course"/></lhs><lhs name\="com.masai.question2.Cars"><rhs name\="com.masai.question2.Cars"/></lhs><lhs name\="com.masai.question3.Vehicle"><rhs name\="com.masai.question3.Truck"/><rhs name\="com.masai.question3.PassangerCar"/></lhs><lhs name\="com.masai.question3.Truck"><rhs name\="com.masai.question3.Truck"/></lhs><lhs name\="com.masai.question3.PassangerCar"><rhs name\="com.masai.question3.PassangerCar"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.String"/></lhs><lhs name\="com.masai.question4.Account"><rhs name\="com.masai.question4.Account"/></lhs><lhs name\="com.masai.question4.Transaction"><rhs name\="com.masai.question4.Transaction"/></lhs><lhs name\="com.masai.question5.Project"><rhs name\="com.masai.question5.Project"/></lhs><lhs name\="com.masai.question5.Manager"><rhs name\="com.masai.question5.Manager"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_prefix_completion=false
+content_assist_proposals_background=52,57,61
+content_assist_proposals_foreground=238,238,238
+content_assist_show_visible_proposals=true
+content_assist_sorter=org.eclipse.jdt.ui.RelevanceSorter
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.javadoc=false
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="" enabled\="true" name\="tcf">try {&\#13;\r\n    ${cursor}&\#13;\r\n} catch (Exception e) {&\#13;\r\n    e.printStackTrace();&\#13;\r\n} finally {&\#13;\r\n    // cleanup code&\#13;\r\n}&\#13;\r\n</template></templates>
+semanticHighlighting.annotation.italic=false
+semanticHighlighting.typeParameter.color=255,184,108
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

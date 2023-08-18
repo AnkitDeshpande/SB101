@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Ankit\SB101\c4_eval\src\main\java\com\masai\question4\Main.java"/>
+			<item value="C:\Ankit\SB101\B27_Day_14\src\main\java\com\masai\dao\EmployeeDaoImpl.java"/>
+			<item value="C:\Ankit\SB101\B27_Day_13\src\main\java\com\masai\B27_Day_13\Employee.java"/>
+			<item value="C:\Ankit\SB101"/>
+			<item value="C:\Ankit\SB101\"/>
+			<item value="C:\Ankit\SB101\B27_Day_11\src\main\java\com\masai\ui\App.java"/>
+			<item value="C:\Ankit\SB101\B27_Day_02"/>
+			<item value="C:\Ankit\SB101\Day15_assignment_2_Biryani_hibernate_part1"/>
+			<item value="C:\Ankit\SB101\b26_third_hibernate_app"/>
+			<item value="C:\Ankit\SB101\EmployeeHibernate"/>
+			<item value="C:\Ankit\SB101\b26_sb101_firstmavenproject\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.masai.B27_Day_17_Assignments"/>
+			<item value="com.masai.question1"/>
+			<item value="com.masai"/>
+			<item value="com.masai.Assignment1"/>
+			<item value="com.masai.ui"/>
+			<item value="com.masai.B27_Day_14"/>
+		</list>
+		<list key="groupId">
+			<item value="com.masai"/>
+		</list>
+		<list key="artifactId">
+			<item value="B27_Day_17_Assignments"/>
+			<item value="c4_eval"/>
+			<item value="B27_Day_16"/>
+			<item value="B27_Day_15"/>
+			<item value="B27_Day_14_Assignment2"/>
+			<item value="B27_Day_13"/>
+			<item value="B27_Day_14"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Ankit\SB101\B27_FrstHibernateProject"/>
+			<item value="C:\Ankit\SB101\jdbc_maven_example_psc"/>
+			<item value="C:\Ankit\SB101\Flight-Booking-System\Project_FBS"/>
+			<item value="C:\Ankit\SB101\B25_SB101_Demo_project"/>
+			<item value="C:\Ankit\SB101\b26_fifth_hibernate_app"/>
+			<item value="C:\Ankit\SB101\b26_fourth_hibernate_app"/>
+			<item value="C:\Ankit\SB101\b26_third_hibernate_app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

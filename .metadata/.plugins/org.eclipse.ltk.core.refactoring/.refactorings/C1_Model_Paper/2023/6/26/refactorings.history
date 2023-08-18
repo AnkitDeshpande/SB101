@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;B26_Model_paper/src/com.masai.fifth&apos;&#x0D;&#x0A;- Original project: &apos;C1_Model_Paper&apos;&#x0D;&#x0A;- Destination element: &apos;B26_Model_paper/src/com.masai.fifth&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.masai.Question3.Applicant.java&#x0D;&#x0A;     com.masai.Question3.Employee.java&#x0D;&#x0A;     com.masai.Question3.Main.java" description="Copy compilation units" destination="=B26_Model_paper/src&lt;com.masai.fifth" element1="/src&lt;com.masai.Question3{Applicant.java" element2="/src&lt;com.masai.Question3{Employee.java" element3="/src&lt;com.masai.Question3{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687733528806" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683628034097_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683628034127_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686479791061_3" label="b26_third_hibernate_app" name="b26_third_hibernate_app">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/b26_third_hibernate_app" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686479813238_4" label="b26_fourth_hibernate_app" name="b26_fourth_hibernate_app">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/b26_fourth_hibernate_app" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686479844901_5" label="b26_fifth_hibernate_app" name="b26_fifth_hibernate_app">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/b26_fifth_hibernate_app" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1688825312160_6" label="jdbc_maven_example_psc" name="jdbc_maven_example_psc">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc_maven_example_psc" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683628036450_2" label="Window Working Set" name="Aggregate for window 1683628036450"/>
+</workingSetManager>
